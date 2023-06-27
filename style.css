@@ -1,0 +1,36 @@
+.details{
+    font-size: medium;
+    width: auto;
+    height: auto;
+    text-align: center;
+    justify-content: space-between;
+}
+.weather icon{
+    text-align: center;
+    
+}
+
+.img{
+    text-align: center;
+    font-size: medium;
+    width: auto;
+}
+.grid{
+    font:right
+}
+body{
+    
+    background-image: url(weather-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}p.italic{
+    font-style: italic;
+  }
+  img{
+    border-radius: 50%;
+  }
+  .h1{
+    font-style: italic;
+    
+  }
